@@ -5,7 +5,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=endl0147&show_icons=true&theme=dracula)
 
 <!--
 **Endl-0147/Endl-0147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
